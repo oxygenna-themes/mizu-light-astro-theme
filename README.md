@@ -132,9 +132,9 @@ However, if you want to give users the ability to switch between themes, you can
 
 ## Want more themes?
 
-### Mizu
+### Mizu Full Version
 
-Check out **Mizu**, a product launch template, it comes with 13 pre-built pages—and more on the way—making it easy to showcase your product and get started quickly.
+Get the **Mizu** full version to unlock everything you need for a polished SaaS or product launch. Building on Mizu Light, it includes 14 ready-to-use pages, 34 reusable UI components, and 33 pre-built blocks, along with sliders and refined animations, a powerful Mega Menu, integrated analytics, and full light and dark mode support — making Mizu a complete solution for modern product and startup websites.
 
 ![mizu](https://oxygenna-themes.b-cdn.net/mizu-astro/mizu-theme.png)
 
