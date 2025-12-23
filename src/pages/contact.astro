@@ -4,7 +4,7 @@
 import Layout from '../layouts/Layout.astro'
 
 // - Blocks
-import Hero from '../components/blocks/hero/BasicHeroSplitImageCTA.astro'
+import Hero from '../components/blocks/hero/SimpleHeroBasic.astro'
 import ContactInfo from '../components/blocks/contact/ContactInfoCards.astro'
 import Brand from '../components/blocks/brand/Marquee.astro'
 import Faq from '../components/blocks/faq/StickyFaq.astro'
@@ -22,8 +22,6 @@ const heroData = {
 	title: 'Got a question before take-off?',
 	subtitle: 'Let’s Connect',
 	text: 'Reach out directly to the team that can best help you. We’re here to answer questions and guide you ahead of launch.',
-	image: '/assets/globe.svg',
-	mediaClasses: 'lg:left-[20%] lg:w-[900px]'
 }
 // - Contact data
 const contactData = {
@@ -52,8 +50,6 @@ const ctaData = {
 		title={heroData.title}
 		subtitle={heroData.subtitle}
 		text={heroData.text}
-		image={heroData.image}
-		mediaClasses={heroData.mediaClasses}
 	/>
 	<ContactInfo title={contactData.title} />
 	<Brand title={brandData.title} />
