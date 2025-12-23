@@ -4,7 +4,7 @@ Mizu Light is a product launch template designed specifically for modern SaaS pr
 
 ![mizu](https://oxygenna-themes.b-cdn.net/mizu-light-astro/mizu-light-02.jpg)
 
-[![View live Demo](https://oxygenna-themes.b-cdn.net/mizu-astro/demo-button.svg)](https://mizu-theme.netlify.app/) [![Page Speed Insights (100%)](https://oxygenna-themes.b-cdn.net/mizu-astro/button-pagespeed.svg)](https://pagespeed.web.dev/analysis/https-mizu-theme-netlify-app/b8pwpm76pv?form_factor=desktop)
+[![View live Demo](https://oxygenna-themes.b-cdn.net/mizu-astro/demo-button.svg)](https://mizu-light-theme.netlify.app/) [![Page Speed Insights (100%)](https://oxygenna-themes.b-cdn.net/mizu-astro/button-pagespeed.svg)](https://pagespeed.web.dev/analysis/https-mizu-theme-netlify-app/b8pwpm76pv?form_factor=desktop)
 
 ## Introduction
 
